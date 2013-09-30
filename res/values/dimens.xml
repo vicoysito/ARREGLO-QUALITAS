@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abajo">-4dp</dimen>
+    <dimen name="abajoTabla">-2dp</dimen>
+    <dimen name="paddingGeneral">10dp</dimen>
+    <dimen name="paddinDerecho">-10dp</dimen>
+    <dimen name="paddingheader">7dp</dimen>
+    
+</resources>
